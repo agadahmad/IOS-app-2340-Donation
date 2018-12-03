@@ -1,0 +1,6 @@
+framework module Pods_drackriOS {
+  umbrella header "Pods-drackriOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
